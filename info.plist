@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Snow</string>
+	<key>ordering</key>
+	<array>
+		<string>0352A591-4E49-4372-B33C-AF85255D5F6B</string>
+		<string>53E70F43-7DA6-4DAA-BDE1-ECFFF6A8C5AD</string>
+		<string>E91E279B-5887-4ED2-A75B-18FE2135A8F5</string>
+		<string>2877A57E-D40B-4E1E-AE25-7060CD034B76</string>
+		<string>F3CA3AC5-9B59-4F22-9858-1E416EF95636</string>
+		<string>8CEF257C-7C7F-4606-9C9F-8A3571222B43</string>
+	</array>
+	<key>uuid</key>
+	<string>34B48FFE-17D6-410A-84F7-A19F8134B99C</string>
+</dict>
+</plist>

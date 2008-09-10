@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>named_scope :${1:scope_name}${2:, :conditions=&gt;[${3}]}${4:, :order=&gt;"${5}"}</string>
+	<key>name</key>
+	<string>named_scope</string>
+	<key>scope</key>
+	<string>source.ruby,source.ruby.rails</string>
+	<key>tabTrigger</key>
+	<string>ns</string>
+	<key>uuid</key>
+	<string>F3CA3AC5-9B59-4F22-9858-1E416EF95636</string>
+</dict>
+</plist>
